@@ -1,0 +1,13 @@
+C:\Users\marti\source\repos\MaRoConsoleRPG\MaRoConsoleRPG\bin\Debug\netcoreapp3.1\MaRoConsoleRPG.exe
+C:\Users\marti\source\repos\MaRoConsoleRPG\MaRoConsoleRPG\bin\Debug\netcoreapp3.1\MaRoConsoleRPG.deps.json
+C:\Users\marti\source\repos\MaRoConsoleRPG\MaRoConsoleRPG\bin\Debug\netcoreapp3.1\MaRoConsoleRPG.runtimeconfig.json
+C:\Users\marti\source\repos\MaRoConsoleRPG\MaRoConsoleRPG\bin\Debug\netcoreapp3.1\MaRoConsoleRPG.runtimeconfig.dev.json
+C:\Users\marti\source\repos\MaRoConsoleRPG\MaRoConsoleRPG\bin\Debug\netcoreapp3.1\MaRoConsoleRPG.dll
+C:\Users\marti\source\repos\MaRoConsoleRPG\MaRoConsoleRPG\bin\Debug\netcoreapp3.1\MaRoConsoleRPG.pdb
+C:\Users\marti\source\repos\MaRoConsoleRPG\MaRoConsoleRPG\obj\Debug\netcoreapp3.1\MaRoConsoleRPG.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\MaRoConsoleRPG\MaRoConsoleRPG\obj\Debug\netcoreapp3.1\MaRoConsoleRPG.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\MaRoConsoleRPG\MaRoConsoleRPG\obj\Debug\netcoreapp3.1\MaRoConsoleRPG.AssemblyInfo.cs
+C:\Users\marti\source\repos\MaRoConsoleRPG\MaRoConsoleRPG\obj\Debug\netcoreapp3.1\MaRoConsoleRPG.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\MaRoConsoleRPG\MaRoConsoleRPG\obj\Debug\netcoreapp3.1\MaRoConsoleRPG.dll
+C:\Users\marti\source\repos\MaRoConsoleRPG\MaRoConsoleRPG\obj\Debug\netcoreapp3.1\MaRoConsoleRPG.pdb
+C:\Users\marti\source\repos\MaRoConsoleRPG\MaRoConsoleRPG\obj\Debug\netcoreapp3.1\MaRoConsoleRPG.genruntimeconfig.cache
